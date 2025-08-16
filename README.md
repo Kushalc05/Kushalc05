@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kushal 👋  
 
-<!--
-**Kushalc05/Kushalc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Passionate about Software Development |   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 Currently working on **Full-stack Web Development projects**  
+- 📚 Strengthening my fundamentals in **C, Java, Data Structures, and Algorithms**  
+- 🎯 Goal: Build strong expertise in **Cloud Computing and Generative AI**  
+- ⚡ Fun fact: I enjoy photography 📸 and exploring the mountains 🌄  
+
+---
+
+## 🤝 Connect With Me  
+- 🌐 [LinkedIn](www.linkedin.com/in/kushal-c-1b78a52a1)  
+- 📧 kushalc093@gmail.com
+
+---
+✨ Thanks for visiting my profile!
