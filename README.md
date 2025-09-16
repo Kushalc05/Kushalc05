@@ -1,6 +1,6 @@
 # Hi, I'm Kushal 👋  
 
-🎓 B.Tech CSE Student | 💻 Passionate about Software Development |   
+🎓 B.Tech CSE Undergrad'26 | 💻 Passionate about Software Development |   
 
 ---
 
