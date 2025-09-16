@@ -13,7 +13,7 @@
 ---
 
 ## 🤝 Connect With Me  
-- 🌐 [LinkedIn](www.linkedin.com/in/kushal-c-1b78a52a1)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kushal-c-1b78a52a1)  
 - 📧 kushalc093@gmail.com
 
 ---
