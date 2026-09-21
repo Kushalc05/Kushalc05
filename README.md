@@ -7,7 +7,6 @@
 ## 🚀 About Me  
 - 🔭 Currently working on **Software Development projects**  
 - 📚 Strengthening my fundamentals in **C, Java, Data Structures, and Algorithms**  
-- 🎯 Goal: Build strong expertise in **DevOps and Generative AI**  
 - ⚡ Fun fact: I enjoy photography 📸 and exploring the mountains 🌄  
 
 ---
