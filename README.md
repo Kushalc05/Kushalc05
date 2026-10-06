@@ -58,54 +58,6 @@ Software Developer | Java | Spring Boot | SQL | REST APIs
 
 ---
 
-## 🚀 Featured Projects
-
-### 📡 PulseWatch — IoT Device Monitoring & Alert Platform
-
-A software-simulated IoT monitoring platform that receives device telemetry, stores readings, evaluates configurable thresholds, and manages alerts through their lifecycle.
-
-**Tech:** Java • Spring Boot • REST APIs • MySQL • Postman
-
-**Key features:**
-- Simulated IoT devices generating temperature, humidity and battery readings
-- REST APIs for device telemetry
-- Telemetry validation and persistence
-- Configurable threshold-based alerts
-- Alert lifecycle: **OPEN → ACKNOWLEDGED → RESOLVED**
-- Device and telemetry monitoring
-
-🔗 **Repository:** Add your PulseWatch repository link here
-
----
-
-### 🛒 StockFlow — E-Commerce & Inventory Management System
-
-A backend-focused e-commerce and inventory management application built with Java and Spring Boot.
-
-**Tech:** Java • Spring Boot • Spring Data JPA • MySQL • REST APIs • Postman
-
-**Key features:**
-- Product and inventory management
-- User registration and authentication
-- Shopping cart functionality
-- Order and checkout processing
-- Stock validation
-- JWT-based authentication and authorization
-- Global exception handling
-
-🔗 **Repository:** https://github.com/Kushalc05/StockFlow-E-Commerce-Inventory-Management
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushalc05&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Kushal's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushalc05&layout=compact&hide_border=true" height="170" alt="Top languages"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
