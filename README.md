@@ -24,8 +24,8 @@ Software Developer | Java | Spring Boot | SQL | REST APIs
 - 💻 Focused on **Java backend development**
 - 🔧 Building applications using **Java, Spring Boot, REST APIs and MySQL**
 - 📚 Currently strengthening **Java, Spring Boot, SQL and Data Structures & Algorithms**
-- 🧪 Comfortable working with **Git and Postman**
 - 🎯 Looking for opportunities to grow as a **Software Developer**
+- ⚡ Fun fact **I enjoy photography, filmmaking**
 
 ---
 
