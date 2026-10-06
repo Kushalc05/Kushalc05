@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal C</h1>
-<h3 align="center">Software Developer | Java | Spring Boot | SQL | REST APIs I'm a B.Tech Computer Science & Engineering graduate focused on building practical software applications and strengthening my skills in Java, Spring Boot, SQL, and backend development.</h3>
+<h3 align="center">Software Developer | Java | Spring Boot | SQL | REST APIs 
+I'm a B.Tech Computer Science & Engineering graduate focused on building practical software applications and strengthening my skills in Java, Spring Boot, SQL, and backend development.</h3>
 
 - 🔭 I’m currently working on **Software development projects and strengthening my Java backend skills**
 
