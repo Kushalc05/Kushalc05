@@ -21,7 +21,7 @@ Software Developer | Java | Spring Boot | SQL | REST APIs
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering graduate
-- 💻 Focused on **Java backend development**
+- 💻 Focused on **Software Development**
 - 🔧 Building applications using **Java, Spring Boot, REST APIs and MySQL**
 - 📚 Currently strengthening **Java, Spring Boot, SQL and Data Structures & Algorithms**
 - 🎯 Looking for opportunities to grow as a **Software Developer**
